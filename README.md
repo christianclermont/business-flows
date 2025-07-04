@@ -10,9 +10,7 @@ This application is featuring the following:
 - A simple BPMN diagram allowing to move cash from / to a Bank account;
 - A Camunda Job Worker using Spring Boot Camunda annotation to complete the tranfer service task. 
 
-This is the initial requirement of the application. We did some experiment with GitHub Copilot around these specs.
-
-Here is the result:
+This is the initial premise. The following is an experiment based on these specifications.
 
 # GitHub Copilot experiment
 
@@ -21,10 +19,10 @@ This repo was build using GitHub Copilot AI. Original code used for experimentin
 > [Spring Boot 3 REST API example: CRUD App](https://www.bezkoder.com/spring-boot-3-rest-api/)
 
 
-# Experiment summary
+# Experiment Results
 
 
-Wow, I'm impressed. In the short time I used to experiment GitHub Copilot, I was able to accomplish a lot of my daily tasks as a software engineer, even if I was new to this tool.
+Wow, I'm impressed. In the short time I used to experiment GitHub Copilot, I was able to accomplish a lot of my daily tasks as a software engineer, even if I was new to this tool. All the code is this repos have been updated using GitHub Copilot. I haven't touch a line of code. But for sure, in real life, we would do minor manual adjustements to reach the final enterprise production grade.
 
 I did install a Linux subsystem on my personal laptop, add VS Code, with the GitHub Copilot interacting with my GitHub repo in a very short time.
 
@@ -40,6 +38,8 @@ So, in summary, I think we cannot avoid it. Coding practices will change. There 
 
 I think, for businesses, they have to take a pause and think about it. Trying to produce deliverable in a short period of time with a lot of man power is doable. But the wise choice would be to invest into their employees to learn how to use AI, so that they have the ability to do more in a shorter time frame. This is for sure, the ROI on a minor investment into learning AI, would be undeniably positively impactful.
 
+BTW, this is the only part that was written by a human :D
+
 --
 
 The following text was the original code used for the GitHub Copilot experiment.
@@ -54,7 +54,6 @@ In this tutorial, we're gonna build a Spring Boot 3 Rest API example with Maven 
 - Way to define Spring Rest Controller
 - Way to handle HTTP GET, POST, PUT, DELETE requests for CRUD Operations
 - How to define Data Model and Service Component
-
 
 ## Run Spring Boot application
 ```
